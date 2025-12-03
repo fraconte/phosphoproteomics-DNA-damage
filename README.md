@@ -11,7 +11,7 @@ Despite its importance, the global behavior of the human phosphoproteome followi
 
 ## Study Overview
 
-In this project, we systematically profiled the cellular phosphoproteome after treatment with **eleven different DNA damage–inducing agents** encountered physiologically or used in cancer therapy. We investigated treatment-specific signatures, common responses, and the enrichment of regulated proximal phosphorylation sites in (phospho-clustering) in intrinsically disordered regions (IDRs).
+In this project, we systematically profiled the cellular phosphoproteome after treatment with **eleven different DNA damage–inducing agents** encountered physiologically or used in cancer therapy. We investigated treatment-specific signatures, common responses, and the enrichment of regulated proximal phosphorylation sites (phospho-clustering) in intrinsically disordered regions (IDRs).
 
 ## Repository Contents
 
