@@ -21,8 +21,6 @@ library(tidyr)
 # -----------------------------------------------------
 # SET YOUR WORKING DIRECTORY
 
-setwd("C:/Users/fraconte/Desktop/Desktop/PB_Lab/FIGURES/DDRBase/Final dataset/Github test")
-
 # -----------------------------------------------------
 # -----------------------------------------------------
 # LOAD DATA
@@ -449,3 +447,4 @@ write.table(
   sep = "\t",
   row.names = FALSE
 )
+
